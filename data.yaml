@@ -1,0 +1,9 @@
+names:
+- Incorrect_mask
+- No_Mask
+- Mask
+nc: 3
+
+test: /content/Mask-Detection-1/test/images
+train: /content/Mask-Detection-1/train/images
+val: /content/Mask-Detection-1/valid/images
